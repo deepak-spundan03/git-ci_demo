@@ -1,4 +1,4 @@
-#github-ci-cd test
+#github-ci-cd test-demo
 name: CI
 
 on: 
